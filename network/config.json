@@ -1,0 +1,53 @@
+{
+  "type": "network",
+  "version": "1.0",
+  "data": "data.json",
+  "logo": {
+    "file": "",
+    "link": "",
+    "text": "Salwa Anisa Luthfi"
+  },
+  "text": {
+    "more": "Wacana redenominasi atau penyederhanaan nilai mata uang rupiah kembali digulirkan. Rencana pengurangan tiga angka nol seperti Rp 1.000 menjadi Rp 1 ini tercantum dalam Peraturan Menteri Keuangan (PMK) Nomor 77 Tahun 2020 tentang Rencana Strategis Kementerian Keuangan 2020-2024. Masyarakat indonesia telah ramai bertukar informasi ini di berbagai media sosial, termasuk Twitter.",
+    "intro": "Visualisasi tentang jaringan pengguna Twitter yang menyebarkan informasi tentang redenomisasi rupiah.",
+    "title": "Redenomisasi Rupiah"
+  },
+  "legend": {
+    "edgeLabel": "Retweet",
+    "colorLabel": "Modularity",
+    "nodeLabel": "Pengguna Twitter"
+  },
+  "features": {
+    "search": true,
+    "groupSelectorAttribute": false,
+    "hoverBehavior": "default"
+  },
+  "informationPanel": {
+    "groupByEdgeDirection": false,
+    "imageAttribute": false
+  },
+  "sigma": {
+    "drawingProperties": {
+      "defaultEdgeType": "curve",
+      "defaultHoverLabelBGColor": "#002147",
+      "defaultLabelBGColor": "#ddd",
+      "activeFontStyle": "bold",
+      "defaultLabelColor": "#000",
+      "labelThreshold": 10,
+      "defaultLabelHoverColor": "#fff",
+      "fontStyle": "bold",
+      "hoverFontStyle": "bold",
+      "defaultLabelSize": 14
+    },
+    "graphProperties": {
+      "maxEdgeSize": 0.5,
+      "minEdgeSize": 0.2,
+      "minNodeSize": 1,
+      "maxNodeSize": 7
+    },
+    "mouseProperties": {
+      "maxRatio": 20,
+      "minRatio": 0.75
+    }
+  }
+}
